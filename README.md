@@ -1,1 +1,1 @@
-FirstLessonHomework
+Write a program in Kotlin, which will run in a cycle from 0 to 100 and display the word "Piff" for each number that is a multiple of 3, and the word "Paff", for numbers that are multiples of 5. Write at least 2 different implementations
